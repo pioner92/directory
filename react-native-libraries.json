@@ -1,5 +1,5 @@
-[
   {
+[
     "githubUrl": "https://github.com/onubo/react-native-logs",
     "ios": true,
     "android": true,
@@ -14074,6 +14074,30 @@
     "examples": ["https://github.com/Splicer97/react-native-android-keyboard-adjust/tree/main/example"],
     "npmPkg": "@splicer97/react-native-android-keyboard-adjust",
     "android": true,
+    "newArchitecture": true
+  },
+  {
+    "githubUrl": "https://github.com/pioner92/react-native-xxhash",
+    "examples": ["https://github.com/pioner92/react-native-xxhash/tree/main/example"],
+    "npmPkg": "react-native-xxhash",
+    "android": true,
+    "ios": true,
+    "newArchitecture": true
+  },
+  {
+    "githubUrl": "https://github.com/pioner92/react-native-img-buffer-save",
+    "examples": ["https://github.com/pioner92/react-native-img-buffer-save/tree/main/example"],
+    "npmPkg": "react-native-img-buffer-save",
+    "android": true,
+    "ios": true,
+    "newArchitecture": true
+  },
+{
+    "githubUrl": "https://github.com/pioner92/react-native-config-jsi",
+    "examples": ["https://github.com/pioner92/react-native-config-jsi/tree/main/example"],
+    "npmPkg": "react-native-config-jsi",
+    "android": true,
+    "ios": true,
     "newArchitecture": true
   }
 ]
